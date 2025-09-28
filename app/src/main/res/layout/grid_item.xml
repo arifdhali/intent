@@ -1,0 +1,13 @@
+<com.google.android.material.button.MaterialButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cellButton"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:text=""
+    android:textSize="28sp"
+    android:gravity="center"
+    android:textStyle="bold"
+    app:cornerRadius="12dp"
+    android:backgroundTint="@color/white"
+    android:textColor="@color/black"
+    android:stateListAnimator="@null"/>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:gravity="center"
+    android:background="#FFFFFF"
+
+    >
+
+    <ImageView
+        android:id="@+id/pageImg"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:src="@drawable/aple"
+        android:contentDescription="@string/apple"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apple"
+        android:textSize="40sp"
+        android:fontFamily="sans-serif-black"
+        android:layout_below="@+id/pageImg"
+        android:textAlignment="center"
+        android:padding="20dp"
+        android:textColor="#F44336"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/apples_are_one_of_the_most_popular_and_widely_consumed_fruits_in_the_world_they_are_crunchy_juicy_and_can_be_sweet_or_slightly_sour_depending_on_the_variety_apples_are_rich_in_vitamins_like_vitamin_c_fiber_and_antioxidants_making_them_very_healthy_they_can_be_eaten_raw_baked_or_used_in_juices_desserts_and_salads_common_varieties_include_red_delicious_granny_smith_fuji_and_gala"
+        android:textSize="18sp"
+        android:layout_below="@+id/title"
+        android:padding="20dp"
+        android:textColor="#F44336"
+        android:layout_marginTop="30dp"
+        />
+
+</RelativeLayout>

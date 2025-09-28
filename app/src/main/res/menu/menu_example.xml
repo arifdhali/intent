@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/apple"
+        android:title="Apple"
+        android:icon="@drawable/outline_accessibility_24"
+      />
+
+    <item
+        android:id="@+id/banana"
+        android:title="Banana"
+        android:icon="@drawable/outline_accessibility_24"
+        />
+
+    <item
+        android:id="@+id/guava"
+        android:title="Guava"
+        android:icon="@drawable/outline_accessibility_24"
+        app:showAsAction="never" />
+</menu>

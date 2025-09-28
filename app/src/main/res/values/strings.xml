@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tictac</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="restart">Restart</string>
+    <string name="apple">Apple</string>
+    <string name="apples_are_one_of_the_most_popular_and_widely_consumed_fruits_in_the_world_they_are_crunchy_juicy_and_can_be_sweet_or_slightly_sour_depending_on_the_variety_apples_are_rich_in_vitamins_like_vitamin_c_fiber_and_antioxidants_making_them_very_healthy_they_can_be_eaten_raw_baked_or_used_in_juices_desserts_and_salads_common_varieties_include_red_delicious_granny_smith_fuji_and_gala">Apples are one of the most popular and widely consumed fruits in the world. They are crunchy, juicy, and can be sweet or slightly sour depending on the variety. Apples are rich in vitamins (like Vitamin C), fiber, and antioxidants, making them very healthy. They can be eaten raw, baked, or used in juices, desserts, and salads. Common varieties include Red Delicious, Granny Smith, Fuji, and Gala.</string>
+    <string name="guava">Guava</string>
+</resources>
